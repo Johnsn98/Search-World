@@ -71,3 +71,9 @@ yarn-error.log
 /node_modules
 
 .firebase
+
+/account.json
+
+.account
+
+/account
