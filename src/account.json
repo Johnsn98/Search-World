@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "search-world-marketplace",
+  "private_key_id": "eea75863875aec24381ab813af0293254973d6b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCSpUOvXHuKAvvq\nEp8Ju4VSOoZLq7yDyqqLBvV8DD3MxU4ffAvWLo3bEXakrq9tLABN6Yy6WgPSymBG\nbb2vFj0tx9Pd1Mw+8Q6E0Zzfxwhl7CS8JR+oJizuMZbFfTnHWPJ4ZK40v1/1+nu2\nBkEovxfu3KQTN3WfAhd16EmJYQg2Aj3amYYpm0aQ1G7Bo/83tjaH/KRwqDhD2zmg\nclYMElY5ELTIDmSFLIM2UUJbPyMYWUOcoCVTLqMhqjrSr/QzH26idHWPWRmcSmxN\nLXVSEesouLk497lov+8l64WSdrjbq0JeQln+X6ULVkf6cPbYG1D2IshzOo6/VVQL\nd9IWpvYnAgMBAAECggEAN3fFa04q+F/6k2Ypu8+vNRQn+fVin+MHsQCX2Cz1L0Au\nNaCBBamkRImNe+sLNdsf3liJv28O5SthUSJvTgu2ZlugWtcDzob1e+2hTc+F8K9q\nkbPlDoAqHIqrQdYFBc8yH7HNZuxAStVM9+PTv6rQTawtb4tZtSRgZVvQfOMz7OFH\nmdg/oEABRuSl7cuf6FvxACpcCM6M9O06HLvHOVW5czG93Xi8JstmGL7qDL6I3vDs\ndBO44dcQWXEfKDpnqybdoCCosdRTQH7OubzrID+P2bM6VWy6qOz8lFla3mKLhDZH\n4D6st0Gj3m8BDwiexc590OqT4M8sDnxIN6m9OAKniQKBgQDDBuCYVmyf/NpxBlDR\nK7f7ijiTprZt3u8UBw8oysKT6mh7hDU4fpFcfJlJqVoMPiptcHbD40zSrW/UcLOU\nsvDB9p6hCz9GE326XgOf0+QlmQt1KHc0+Cn2jWzRFWk/rw5N2CjiigS9EE8vX2VQ\n+DB2CSKOCfrhsibpwkAAFQvs+wKBgQDAficv7ywynYpOArCyBI8gitTIfztVL7Rm\nhB/6dwizNbRovJ5HsncJztPGOCGxafsAIbq5unxuOidUbje8EVCSDuaacPwvv1jX\nudu4gLj1zplynNEG6q1bXHa9lD4/4bZZR8+I7cSSiGsO1fR3KRfK5NFVq7wG1uCq\nQMVYUEd7xQKBgQC+4/VjxnvuIN1i8a6a/jLIF6OHCg/X/PR/4uT4pXXMuAzqkR5S\nnLgFEcQsMIH+J775fbIRzGK+d5pVErcDnh4/i/f6Y3rcSWmvyCO+BfVyw5lOZHxB\nsYHJXOYcxNtOxTa4BRMHodY/hD4tfS87EKLGdeyHoMcasHicJ1Djg7Y3jwKBgCR5\nQu+gQB2vID+73sM8fepKpBsBkLqJeYNbUbvhxjI+4NpfsxYeyNOA7zvF8wxs6nSR\n75G1tlIkjsM+xyzJkxy52hQ1iHN7rFfkDbAeI+3foc/HywumeAaxtIYjitAL8sNk\nCf0GIJMrai27eMEDdlCpnsi+67fYC2X3M+2R+JmJAoGBAIYUv2RsTZ6bZ8GlN+L+\ns49OvX5sxfj4aZjU2XoWp1/aD1Q8GcK4pgeYxNQZVSqYdFX2EtadhFJiOiItRhOG\n9V3029+wI7iQKcecX+uNiREOLwwXlK/r5Zh2r2IByRFAXIdBivHHa7GuHtbxXfA8\nym651biIABnA1I1o4HsGeIvr\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-dtd70@search-world-marketplace.iam.gserviceaccount.com",
+  "client_id": "103176012397176983978",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-dtd70%40search-world-marketplace.iam.gserviceaccount.com"
+}
