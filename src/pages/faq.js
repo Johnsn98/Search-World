@@ -3,6 +3,7 @@ import React from "react"
 import Layout from "../components/layout"
 import SearchBar from "../components/searchbar"
 import SEO from "../components/seo"
+import IMG from "../images/ScreenShot.jpg"
 
 import "../components/style.css"
 
@@ -51,6 +52,11 @@ const faq = () => (
             You must return to searchworldmarketplace.com to perform a new
             search.
           </p>
+          <p>
+            Search World Marketplace is currently not compatible with "New
+            Facebook". Switch back to the classic version
+          </p>
+          <img src={IMG} alt={`New Facebok, Classic`}></img>
           <h3>Now I'm seeing results in Dubai?</h3>
           <p>This may happen if you don't do the previous.</p>
           <h3>Who made this website?</h3>

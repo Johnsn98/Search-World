@@ -35,6 +35,10 @@ function SEO({
 
   const metaDescription = description || site.siteMetadata.description
 
+  let theKeywords = keywords
+
+  let desc = `Search All Of Facebook Marketplace | ${placename}`
+
   return (
     <Helmet
       htmlAttributes={{
@@ -45,8 +49,7 @@ function SEO({
       meta={[
         {
           name: `description`,
-          content:
-            "Search the entire world on Facebook Marketplace, over 100 miles, by country",
+          content: desc,
         },
         {
           name: `metaDescription`,
@@ -54,12 +57,12 @@ function SEO({
         },
         {
           property: `og:title`,
-          content: "Search The World On Facebook Marketplace",
+          content: "Find anything in the World On Facebook Marketplace",
         },
         {
           property: `og:description`,
           content:
-            "searchworldmarketplace is a way to search all listings on facebook marketplace. Search nationwide or globaly",
+            "searchworldmarketplace is a way to search all listings on facebook marketplace, nationwide or globaly",
         },
         {
           property: `og:type`,
@@ -85,19 +88,19 @@ function SEO({
         },
         {
           name: `keywords`,
-          content: { keywords },
+          content: theKeywords,
         },
         {
           name: "geo.placename",
-          content: { placename },
+          content: placename,
         },
         {
           name: "geo.position",
-          content: { position },
+          content: position,
         },
         {
           name: "ICBM",
-          content: { position },
+          content: position,
         },
       ].concat(meta)}
     />

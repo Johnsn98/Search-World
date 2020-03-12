@@ -37,7 +37,6 @@ const Layout = ({ children }) => {
           <main>{children}</main>
         </div>
         <CountryBar />
-
         <div className="headings">
           <h1> Search facebook marketplace over 100 miles</h1>
           <h2>
@@ -45,6 +44,7 @@ const Layout = ({ children }) => {
             See what is for sale in the entire world on facebook marketplace{" "}
           </h2>
         </div>
+
         <Footer />
       </div>
     </>

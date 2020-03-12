@@ -13,7 +13,7 @@ export default ({ pageContext: { theCountry } }) => (
       <SEO
         title={`Facebook Marketplace ${theCountry.name}`}
         description={`Search all of ${theCountry.name}`}
-        keywords={`All, results, by country, Facebook, Facebook Marketplace, ${theCountry.name}`}
+        keywords={`All, results, by country, Facebook, ${theCountry.name}`}
         placename={theCountry.name}
         position={`${theCountry.latlng[0]}, ${theCountry.latlng[1]}`}
       />
@@ -24,7 +24,7 @@ export default ({ pageContext: { theCountry } }) => (
             <div> Items for Sale </div>
           </div>
           <div className="style2">Remove the 100-mile boundary</div>
-          <Link to="/">
+          <Link to="/about">
             <input type="submit" value="Learn More" className="button1" />
           </Link>
         </div>

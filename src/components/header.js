@@ -40,7 +40,7 @@ const Header = ({ siteTitle }) => (
           <h3
             style={{
               color: "gray",
-              fontSize: "1rem",
+              fontSize: ".8rem",
               padding: 0,
               lineHeight: 0,
             }}

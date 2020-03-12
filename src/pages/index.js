@@ -10,7 +10,10 @@ import "../components/style.css"
 const IndexPage = () => (
   <>
     <Layout>
-      <SEO title="Global Facebook search" />
+      <SEO
+        title="Search All Facebook Marketplace"
+        description="Worldwide Search"
+      />
       <div className="container">
         <div className="centered">
           <div className="style1">

@@ -13,8 +13,6 @@ class searchAll extends Component {
 
     if (document.getElementById(theCountry)) {
       highlight()
-
-      console.log(this.props.data, this.props.data)
     }
   }
 

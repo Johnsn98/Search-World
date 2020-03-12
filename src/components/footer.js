@@ -6,7 +6,9 @@ export class footer extends Component {
     return (
       <>
         <div className="footer">
-          <Link className="footerLink">Home</Link>
+          <Link to="/" className="footerLink">
+            Home
+          </Link>
           <Link to="/about" className="footerLink">
             About
           </Link>

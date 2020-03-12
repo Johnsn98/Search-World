@@ -12,12 +12,18 @@
   .container {
     height: 25vh;
   }
+  .Finland {
+    display: none;
+  }
 }
 
 @media only screen and (min-width: 500px) {
   .container {
     min-height: 15em;
     height: 33vh;
+  }
+  .Finland {
+    display: block;
   }
 }
 
